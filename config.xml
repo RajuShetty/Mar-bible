@@ -116,7 +116,7 @@
 
     <icon src="icon.png" />
 
-    <content src="bible/index.htm" />
+    <content src="index.html" />
     <access origin="*" subdomains="false" />  
     <allow-navigation href="*" /><!-- iOS render iframe content -->
     <!-- https://github.com/phonegap/build/issues/508 -->
